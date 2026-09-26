@@ -1,50 +1,47 @@
-# .github
-# ZHEONE（喆迈）
+# ZHEONE
 Company Profile | Business Scope | Products | Global Distribution | Corporate Information
 
-ZHEONE（喆迈）是一家专注于专业医疗美容设备研发、生产制造、全球销售及技术服务的医美品牌。品牌以韩国总部为核心，建立韩国研发制造、香港亚太运营、中国大陆独家总经销的全球业务架构，为全球美容仪器代理商、经销商、医疗美容机构及专业美容院线提供设备与商业合作解决方案。
+ZHEONE is a professional medical aesthetic device brand focusing on R&D, manufacturing, global sales and technical services of aesthetic equipment. Centered on its headquarters in South Korea, ZHEONE has established a global business framework including Korean R&D & manufacturing, Hong Kong Asia-Pacific operation, and exclusive distribution in Mainland China. We deliver equipment and commercial cooperation solutions for global beauty instrument agents, distributors, medical aesthetic clinics and professional beauty salons.
 
-## 一、公司简介
-**品牌名称： ZHEONE（喆迈）**
+## 1. Company Profile
+ZHEONE has over a decade of experience in the optoelectronic aesthetic equipment industry, building a complete industrial chain covering core R&D, in-house production and worldwide sales.
 
-ZHEONE 深耕光电医美设备领域十余载，构建了集核心研发、自主生产、全球销售于一体的产业链。
+The brand headquarters is located in Seoul, South Korea. The manufacturer is KOREA ZHEONE Technology Co., Ltd. Adhering to Korean precision manufacturing standards, we have a professional R&D team and standardized quality control system, continuously supplying high-quality devices and technical solutions for global aesthetic clinics and professional beauty salons.
 
-品牌总部位于韩国首尔，生产制造商为韩国 KOREA ZHEONE Technology Co., Ltd。公司坚持韩国精工工艺标准，拥有专业研发团队与标准化品控体系，持续为全球医美机构及专业美容院线提供高品质设备和技术解决方案。
+At present, ZHEONE operates a coordinated business system covering the Korean headquarters, Hong Kong Asia-Pacific entity and exclusive Mainland China distributor to realize collaborative operations in R&D & manufacturing, international supply chain, global channel expansion and localised services.
 
-目前，ZHEONE 建立了覆盖韩国总部、中国香港亚太运营主体及中国大陆独家总经销的业务体系，实现研发制造、国际供应链、全球渠道拓展及本地化服务的协同运营。
-
-### 全球企业架构
-|企业主体|名称及定位|
+### Global Corporate Structure
+| Entity | Name & Positioning |
 | ---- | ---- |
-|韩国总部|KOREA ZHEONE Technology Co., Ltd，品牌总部及生产制造商|
-|香港亚太运营主体|KOREA ZHEONE (HONG KONG) TECHNOLOGY CO., LIMITED，亚太运营及亚太总经销|
-|中国大陆总经销|河北喆迈科技有限公司，ZHEONE 中国大陆独家总经销|
+| Korea Headquarters | KOREA ZHEONE Technology Co., Ltd, Brand Headquarters & Manufacturer |
+| Hong Kong Asia-Pacific Entity | KOREA ZHEONE (HONG KONG) TECHNOLOGY CO., LIMITED, Asia-Pacific Operation & Asia-Pacific Master Distributor |
+| Mainland China Distributor | Hebei ZHEONE Technology Co., Ltd, Exclusive Distributor of ZHEONE in Mainland China |
 
-## 二、业务范围
-ZHEONE 面向全球专业美容及医疗美容市场，提供以下业务：
+## 2. Business Scope
+ZHEONE serves the global professional beauty and medical aesthetic market with the following businesses:
 
-|业务类别|业务内容|
+| Business Category | Details |
 | ---- | ---- |
-|研发与生产|光电医美设备研发、设计、生产制造及技术迭代|
-|国际贸易|专业美容仪器出口、批发及跨境供应链服务|
-|全球代理招商|国家级代理、区域经销商及授权合作伙伴招募|
-|OEM/ODM|设备定制、品牌定制及产品合作开发|
-|技术培训|视频教学、专业操作指导及实操上机培训|
-|售后服务|设备维护、配件支持、远程技术指导及快速响应|
-|市场推广|产品资料、营销素材、渠道运营及代理商市场支持|
+| R&D & Manufacturing | R&D, design, production and technical iteration of optoelectronic aesthetic devices |
+| International Trade | Export, wholesale and cross-border supply chain services for professional beauty equipment |
+| Global Agent Recruitment | Recruitment of national-level agents, regional distributors and authorized partners |
+| OEM/ODM | Custom device manufacturing, brand customization and joint product development |
+| Technical Training | Video tutorials, operational guidance and hands-on practical training |
+| After-sales Service | Equipment maintenance, spare parts support, remote technical guidance and rapid response |
+| Marketing Support | Product documents, marketing materials, channel operation and promotional support for agents |
 
-> **主要服务对象：**
-> - 海外美容仪器进口商、批发商及代理商
-> - 医疗美容机构、专业美容院及皮肤管理中心
-> - 美容仪器品牌商及 OEM/ODM 合作客户
-> - 全球专业美容设备经销商及区域渠道合作伙伴
+> **Target Clients:**
+> - Overseas importers, wholesalers and agents of beauty devices
+> - Medical aesthetic clinics, professional beauty salons and skin management centers
+> - Beauty equipment brands and OEM/ODM cooperation clients
+> - Global professional beauty equipment distributors and regional channel partners
 
-## 三、官方网站
-- ZHEONE 全球品牌官网：www.zheone.com
-- ZHEONE 中国大陆业务官网：www.zheonemedicalkr.com
-- 韩国总部官网：www.zheone.kr
+## 3. Official Websites
+- ZHEONE Global Brand Website: www.zheone.com
+- ZHEONE Mainland China Business Website: www.zheonemedicalkr.com
+- Korea Headquarters Website: www.zheone.kr
 
-## 四、联系方式
+## 4. Contact Information
 **Global Business Contact**
 
 |Contact|Info|
@@ -55,76 +52,75 @@ ZHEONE 面向全球专业美容及医疗美容市场，提供以下业务：
 
 For global distribution, dealership opportunities, OEM/ODM cooperation, product inquiries, and technical support, please contact our international business team via email or WhatsApp.
 
-## 五、产品体系
-ZHEONE 提供覆盖面部护理、皮肤管理、激光美容、射频抗衰及身体塑形等领域的专业美容设备。
+## 5. Product Portfolio
+ZHEONE provides professional aesthetic devices for facial care, skin management, laser beauty, radiofrequency anti-aging and body contouring.
 
-|产品类别|产品系列|主要应用|
+|Product Category|Product Line|Main Applications|
 | ---- | ---- | ---- |
-|射频微针|ROOSTRF|射频微针、皮肤紧致及面部抗衰|
-|微波塑形|ONDAWAVE|身体塑形、脂肪管理及紧致护理|
-|半导体激光|Diode Laser|专业激光脱毛|
-|光子嫩肤|DPL / BBL|肤色改善、色素管理及光电嫩肤|
-|皮秒激光|Picosecond Laser|色素管理及皮肤美容|
-|调Q激光|Q-Switched Nd:YAG Laser|色素相关美容应用|
-|聚焦超声|HIFU / MFU + RF|面部及身体紧致护理|
-|点阵激光|CO2 Fractional Laser|点阵激光及皮肤美容|
-|射频设备|448K RF|面部护理及身体护理|
-|等离子美容|Abbas Plas|等离子清洁及皮肤护理|
-|光电皮肤管理|Abbas Light / Abbas iLight|光电皮肤管理及专业护理|
-|综合塑形|Multi-Energy Sculpting System|射频、超声及负压综合塑形|
+|RF Microneedling|ROOSTRF|RF microneedling, skin tightening and facial anti-aging|
+|Microwave Contouring|ONDAWAVE|Body contouring, fat management and skin tightening|
+|Diode Laser|Diode Laser|Professional laser hair removal|
+|Photorejuvenation|DPL / BBL|Skin tone improvement, pigment management and photofacial treatment|
+|Picosecond Laser|Picosecond Laser|Pigment management and skin aesthetic treatment|
+|Q-Switched Laser|Q-Switched Nd:YAG Laser|Pigment-related aesthetic applications|
+|Focused Ultrasound|HIFU / MFU + RF|Facial and body skin tightening|
+|Fractional Laser|CO2 Fractional Laser|Fractional laser and skin resurfacing|
+|RF Device|448K RF|Facial care and body care|
+|Plasma Aesthetic|Abbas Plas|Plasma cleansing and skin care|
+|Photoelectric Skin Management|Abbas Light / Abbas iLight|Photoelectric skin management and professional skincare|
+|Multi-Energy Contouring|Multi-Energy Sculpting System|Combined RF, ultrasound and negative pressure body contouring|
 
-> 具体型号、参数、适用范围及认证情况以各型号正式技术文件及认证证书为准。
+> The specific models, parameters, applicable scope and certifications shall be subject to the official technical documents and certification certificates of each model.
 
-## 六、团队介绍
-ZHEONE 以韩国总部研发制造能力为基础，联合香港运营及中国大陆服务团队，构建覆盖产品研发、生产、销售、培训及售后的专业服务体系。
+## 6. Team Introduction
+Based on the R&D and manufacturing capacity of the Korean headquarters, ZHEONE collaborates with Hong Kong operation and Mainland China service teams to build a professional service system covering product R&D, production, sales, training and after-sales.
 
-|团队|核心职责|
+|Team|Core Responsibilities|
 | ---- | ---- |
-|研发与技术团队|产品研发、技术开发、设备升级及技术支持|
-|生产与品质管理团队|生产制造、标准化质量控制及产品检验|
-|国际销售团队|全球代理招商、经销商管理及国际市场拓展|
-|培训与市场团队|产品视频教学、实操培训及营销推广支持|
-|售后服务团队|技术指导、设备维护、配件供应及快速响应|
+|R&D & Technical Team|Product development, technical development, equipment upgrade and technical support|
+|Production & Quality Control Team|Manufacturing, standardized quality control and product inspection|
+|International Sales Team|Global agent recruitment, distributor management and international market expansion|
+|Training & Marketing Team|Product video training, hands-on practical training and marketing promotion support|
+|After-sales Service Team|Technical guidance, equipment maintenance, spare parts supply and rapid response|
 
-### 全球合作服务
-- 设备定制输出：根据合作需求提供设备及定制化合作方案。
-- 专业技术培训：提供视频教学、设备操作指导及实操上机培训。
-- 渠道运营支持：提供品牌资料、产品宣传素材及市场推广支持。
-- 售后服务保障：提供全天候快速售后响应及技术协同支持。
+### Global Cooperation Services
+- Customized equipment solutions based on cooperation requirements
+- Professional technical training: video courses, equipment operation guidance and hands-on practical training
+- Channel operation support: brand materials, product promotional assets and marketing support
+- After-sales guarantee: 24-hour rapid after-sales response and coordinated technical support
 
-## 七、营业执照及企业注册信息简介
-ZHEONE 采用多主体运营架构，各公司依法承担对应的研发制造、国际运营、经销及本地化服务职能。
+## 7. Corporate Registration Overview
+ZHEONE adopts a multi-entity operation structure. Each entity legally performs its corresponding functions in R&D & manufacturing, international operation, distribution and localised services.
 
-### 1. 韩国总部及生产制造商
-|项目|企业信息|
+### 1. Korea Headquarters & Manufacturer
+|Item|Corporate Information|
 | ---- | ---- |
-|英文名称|KOREA ZHEONE Technology Co., Ltd|
-|韩文名称|코리아제원테크놀로지|
-|企业定位|韩国总部、研发制造及生产供应主体|
-|公司地址|서울특별시 구로구 구로1동 8가 63번지 1동 9층 917호 (구로동, 구로한신아파트)|
-|官网|www.zheone.kr|
+|English Name|KOREA ZHEONE Technology Co., Ltd|
+|Korean Name|코리아제원테크놀로지|
+|Positioning|Korea Headquarters, R&D & Manufacturing Entity|
+|Address|서울특별시 구로구 구로1동 8가 63번지 1동 9층 917호 (구로동, 구로한신아파트)|
+|Website|www.zheone.kr|
 
-### 2. 中国香港亚太运营主体
-|项目|企业信息|
+### 2. Hong Kong Asia-Pacific Entity
+|Item|Corporate Information|
 | ---- | ---- |
-|英文名称|KOREA ZHEONE (HONG KONG) TECHNOLOGY CO., LIMITED|
-|中文名称|韓國喆邁(香港)科技有限公司|
-|企业定位|亚太运营主体及亚太地区总经销|
-|公司地址|UNIT 03E 15/F, CARNIVAL COMMERCIAL BUILDING, 18 JAVA ROAD, NORTH POINT, HONG KONG|
-|官网|www.zheone.com|
+|English Name|KOREA ZHEONE (HONG KONG) TECHNOLOGY CO., LIMITED|
+|Positioning|Asia-Pacific Operation Entity & Asia-Pacific Master Distributor|
+|Address|UNIT 03E 15/F, CARNIVAL COMMERCIAL BUILDING, 18 JAVA ROAD, NORTH POINT, HONG KONG|
+|Website|www.zheone.com|
 
-### 3. 中国大陆独家总经销
-|项目|企业信息|
+### 3. Mainland China Exclusive Distributor
+|Item|Corporate Information|
 | ---- | ---- |
-|企业名称|河北喆迈科技有限公司|
-|企业定位|韩国 ZHEONE 品牌授权的中国大陆独家总经销|
-|业务范围|产品销售、渠道拓展、技术培训、本地化售后及市场服务|
-|公司地址|河北省廊坊市三河市燕郊高新区留山大街中南高科·燕郊科创智谷产业园14#二层|
-|官网|www.zheonemedicalkr.com|
+|Entity Name|Hebei ZHEONE Technology Co., Ltd|
+|Positioning|Authorized Exclusive Distributor of ZHEONE for Mainland China|
+|Business Scope|Product sales, channel development, technical training, local after-sales and marketing services|
+|Address|2/F, Building 14, Zhongnan Hi-Tech Yanjiao Sci-Tech Valley, Liushan Avenue, Yanjiao High-Tech Zone, Sanhe City, Langfang, Hebei Province, China|
+|Website|www.zheonemedicalkr.com|
 
-> 以上为企业提供的主体及品牌资料。各公司的注册编号、成立日期、注册资本、董事或法定代表人、登记经营范围等法定信息，应以相应国家或地区的有效注册文件、营业执照或商业登记证为准。
+> The above is brand and entity information provided by the enterprise. Registered number, establishment date, registered capital, directors or legal representatives and registered business scope of each company shall be subject to valid registration documents, business licenses or certificates of incorporation issued by the competent authorities of respective countries and regions.
 
 ---
-**ZHEONE（喆迈）**
-> 韩国研发制造 · 全球渠道合作 · 专业技术培训 · 全链路售后服务
-> 致力于为全球美容仪器代理商、经销商及专业医美机构提供高品质设备与长期商业合作支持。
+**ZHEONE**
+> Korea R&D & Manufacturing · Global Channel Partnership · Professional Technical Training · Full-cycle After-sales Service
+> Committed to providing high-quality aesthetic devices and long-term business support for global beauty instrument agents, distributors and professional medical aesthetic clinics.
